@@ -1,0 +1,27 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor-platform
+# standard-app-packages
+aldeed:collection2
+aldeed:autoform
+momentjs:moment
+aldeed:autoform-bs-datepicker
+rajit:bootstrap3-datepicker
+mickaelfm:vermongo
+yasinuslu:blaze-meta
+cfs:standard-packages
+cfs:filesystem
+dsyko:meteor-node-csv
+meteorhacks:npm
+cfs:gridfs
+aldeed:tabular
+zimme:iron-router-active
+dburles:collection-helpers
+iron:router
+npm-container
+twbs:bootstrap
+maxharris9:csv-import
